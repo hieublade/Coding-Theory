@@ -59,6 +59,9 @@ Chạy lệnh sau để biên dịch file mã nguồn:
 
 ###### Bước 2: Chạy chương trình với testcase
 
+test 1, 2 là trắc nghiệm
+test 3, 4 là tự luận
+
 Sử dụng lệnh chuyển hướng để đọc file input:
 
 \- Trên **Windows**:
