@@ -1,0 +1,9 @@
+=== TEST CASE 1 ===
+Bo ma C = { 1, 10, 01 }
+[Kiem tra Sardinas-Patterson]
+    -> Tap S1: { 0 }
+    !! Tim thay hau to '1' trung voi tu ma trong C.
+==> Ket luan:
+ (a) Suy bien: NO
+ (b) GMDN:     NO
+ (c) Prefix:   NO

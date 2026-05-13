@@ -1,0 +1,20 @@
+=== TEST CASE 1 ===
+Bo ma C = { 01, 10, 110, 011, 000, 111, 101, 001, 010, 0110 }
+[Kiem tra Sardinas-Patterson]
+    -> Tap S1: { 0, 1, 10 }
+    !! Tim thay hau to '01' trung voi tu ma trong C.
+==> Ket luan:
+ (a) Suy bien: NO
+ (b) GMDN:     NO
+ (c) Prefix:   NO
+
+=== TEST CASE 2 ===
+Bo ma C = { 1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 0000000001 }
+[Kiem tra Sardinas-Patterson]
+    -> Tap S1: { 0, 00, 000, 0000, 00000, 000000, 0000000, 00000000 }
+    -> Tap S2: { 000000001, 00000001, 0000001, 000001, 00001, 0001, 001, 01 }
+    -> Tap S3: { rong }
+==> Ket luan:
+ (a) Suy bien: NO
+ (b) GMDN:     YES
+ (c) Prefix:   NO
