@@ -2,15 +2,6 @@
 
 
 
-###### \*\*Thông tin sinh viên\*\*
-
-
-
-\- Tên - MSV: Nguyễn Bá Hiệu - B24DCCN223, Trần Đức Việt Anh - B24DCCN046, Nguyễn Gia Huy - B24DCCN278, Nguyễn Thế Hùng - B24DCCN256
-
-\- Trường: Học viện Công nghệ Bưu chính Viễn thông (PTIT)
-
-
 
 ##### \## 1. Mô tả dự án
 
